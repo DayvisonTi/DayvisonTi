@@ -46,3 +46,5 @@
 </p>
 
 ![Snake animation](https://github.com/DayvisonTi/DayvisonTi/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DayvisonTi&repo=DayvisonTi&theme=react)](https://github.com/DayvisonTi/DayvisonTi)
