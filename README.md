@@ -45,8 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dayvisonti&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+
 ![Snake animation](https://github.com/DayvisonTi/DayvisonTi/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/DayvisonTi/DayvisonTi/blob/output/github-contribution-grid-snake.gif)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DayvisonTi&repo=DayvisonTi&theme=react)](https://github.com/DayvisonTi/DayvisonTi)
