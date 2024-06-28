@@ -35,6 +35,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
+![Snake animation](https://github.com/DayvisonTi/DayvisonTi/blob/output/github-contribution-grid-snake.svg)
+
+
 ### 🛠 Ferramentas:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
