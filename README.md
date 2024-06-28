@@ -40,12 +40,17 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisonti&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dayvisonti&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align=center>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisonti&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dayvisonti&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 
-![Snake animation](https://github.com/DayvisonTi/DayvisonTi/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/DayvisonTi/DayvisonTi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+
+
 
 
