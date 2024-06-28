@@ -41,8 +41,8 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisonti&layout=compact&theme=radical" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvisonti&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisonti&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=dayvisonti&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 
